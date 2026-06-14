@@ -20,7 +20,7 @@ Predicting electricity demand is useful because it helps in better planning of p
 - XGBoost (for the model)
 - Scikit-learn (for evaluation metrics & scaling)
 
-## 📊 Project Workflow
+## Project Workflow
 
 **Step 1: Load the Dataset**
 - Fetched the dataset directly from the UCI repository using `ucimlrepo`
