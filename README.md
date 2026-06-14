@@ -68,12 +68,8 @@ The lag features and rolling mean features turned out to be the most important f
 
 ## How to Run This Project
 
-1. Clone this repository
-git clone https://github.com/priya-lathiya/Electricity_Demand_Forcasting.git
-
-2. Install the required libraries
-pip install -r requirements.txt
-
+1. Clone this repository: git clone https://github.com/priya-lathiya/Electricity_Demand_Forcasting.git
+2. Install the required libraries: pip install -r requirements.txt
 3. Open `Electricity_Demand_Forcasting.ipynb` in Jupyter Notebook or Google Colab
 4. Run all the cells step by step
 
